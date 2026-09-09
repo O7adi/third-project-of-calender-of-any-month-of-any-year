@@ -1,1 +1,1 @@
-print("bhen ki chut")
+print("welcome")
